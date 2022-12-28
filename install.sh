@@ -89,15 +89,16 @@ apt-get install -y host
 apt-get install -y whois
 apt-get install -y dnsrecon
 apt-get install -y curl
-apt-get install -y php7.4
-apt-get install -y php7.4-curl
+apt-get install -y lsb-release 
+apt-get install -y apt-transport-https
+apt-get install -y ca-certificates 
 apt-get install -y jq
 apt-get install -y golang
 apt-get install -y adb
 apt-get install -y xsltproc
 apt-get install -y ldapscripts
 apt-get install -y libssl-dev 
-apt-get install -y python-pip3
+apt-get install -y python-pip
 apt-get install -y python3-pip
 apt-get install -y xmlstarlet
 apt-get install -y net-tools
@@ -110,6 +111,15 @@ apt-get install -y iputils-ping
 apt-get install -y enum4linux
 apt-get install -y dnsutils
 apt-get install -y maltego
+echo -e "$OKGREEN[*]$RESET Done! $RESET"
+echo -e "$OKBLUE[*]$RESET Installing PHP 7.4...$RESET"
+wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+echo "deb https://packages.sury.org/php/ bullseye main" | sudo tee /etc/apt/sources.list.d/php.list
+apt update
+apt-get install -y php7.4
+apt-get install -y php7.4-curl
+wget http://ftp.us.debian.org/debian/pool/main/libf/libffi/libffi7_3.3-6_amd64.deb
+dpkg -i libffi7_3.3-6_amd64.deb
 echo -e "$OKGREEN[*]$RESET Done! $RESET"
 echo -e "$OKBLUE[*]$RESET Installing PIP packages...$RESET"
 pip3 install dnspython
@@ -557,10 +567,6 @@ echo -e "$OKBLUE[*]$RESET Installing pentesting...$RESET"
 git clone https://github.com/go-outside-labs/pentesting.git
 cd pentesting
 pip3 install -r requirements.txt
-
-
-
-
 echo -e "$OKBLUE[*]$RESET Setting up environment...$RESET"
 cd $INSTALL_DIR
 mkdir $LOOT_DIR 2> /dev/null
