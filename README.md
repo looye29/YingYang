@@ -109,10 +109,4 @@ sniper -u|--update
 * **VULNSCAN:** Launches a OpenVAS vulnerability scan.
 * **MASSVULNSCAN:** Launches a "vulnscan" mode scans on multiple targets specified via the "-f" switch.
 
-## License & Legal Agreement
-For license and legal information, refer to the LICENSE.md (https://github.com/1N3/Sn1per/blob/master/LICENSE.md) file in this repository.
-
-## Purchase Sn1per Professional
-To obtain a Sn1per Professional license, go to https://sn1persecurity.com.
-
 Attack Surface Management (ASM) | Continuous Attack Surface Testing (CAST) | Attack Surface Software | Attack Surface Platform | Continuous Automated Red Teaming (CART) |  Vulnerability & Attack Surface Management | Red Team | Threat Intel | Application Security | Cybersecurity | IT Asset Discovery | Automated Penetration Testing | Hacking Tools | Recon Tool | Bug Bounty Tool | Vulnerability Scanner | Attack Surface Analysis | Attack Surface Reduction | Attack Surface Detector | Attack Surface Monitoring | Attack Surface Review | Attack Surface Discovery | Digital Threat Management | Risk Assessment | Threat Remediation | Offensive Security Framework | Automated Penetration Testing Framework | External Threat Management | Internal IT Asset Discovery | Security Orchestration and Automation (SOAR) | automated pentesting framework | pentest-tools github | ad pentest tools | pentest-tools review | security testing tools | ubuntu pentesting tools | pentesting tools for mac | cloud-based pen-testing tools
