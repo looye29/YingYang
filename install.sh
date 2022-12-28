@@ -567,6 +567,14 @@ echo -e "$OKBLUE[*]$RESET Installing pentesting...$RESET"
 git clone https://github.com/go-outside-labs/pentesting.git
 cd pentesting
 pip3 install -r requirements.txt
+# xsspy INSTALLER
+echo -e "$OKGREEN[*]$RESET Done! $RESET"
+cd $PLUGINS_DIR
+echo -e "$OKBLUE[*]$RESET Installing xsspy...$RESET"
+git clone https://github.com/faizann24/XssPy/ /opt/xsspy
+cd /opt/xsspy
+pip3 install -r requirements.txt
+# Setting up environment
 echo -e "$OKBLUE[*]$RESET Setting up environment...$RESET"
 cd $INSTALL_DIR
 mkdir $LOOT_DIR 2> /dev/null
