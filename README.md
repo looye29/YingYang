@@ -1,4 +1,4 @@
-### YingYang
+# YingYang
 
 ## Usage
 ```
