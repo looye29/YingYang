@@ -12,7 +12,7 @@ VER="9.1"
 INSTALL_DIR="/usr/share/sniper"
 LOOT_DIR="$INSTALL_DIR/loot/$TARGET"
 # SNIPER_PRO=$INSTALL_DIR/pro.sh
-SNIPER_PRO=1
+# SNIPER_PRO=1
 
 # INIT POSTGRESQL
 service postgresql start 2> /dev/null
