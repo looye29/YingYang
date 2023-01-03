@@ -1,0 +1,138 @@
+[submodule "Sn1per"]
+	path = Sn1per
+	url = https://github.com/1N3/Sn1per.git
+[submodule "Sublist3r"]
+	path = Sublist3r
+	url = https://github.com/1N3/Sublist3r.git
+[submodule "Shocker"]
+	path = Shocker
+	url = https://github.com/nccgroup/shocker.git
+[submodule "SSH-audit"]
+	path = SSH-audit
+	url = https://github.com/arthepsy/ssh-audit
+[submodule "Jexboss"]
+	path = Jexboss
+	url = https://github.com/1N3/jexboss.git
+[submodule "Wig"]
+	path = Wig
+	url = https://github.com/jekyc/wig.git
+[submodule "COR-test"]
+	path = COR-test
+	url = https://github.com/RUB-NDS/CORStest.git
+[submodule "Vulscan"]
+	path = Vulscan
+	url = https://github.com/scipag/vulscan
+[submodule "Metagoofil"]
+	path = Metagoofil
+	url = https://github.com/laramies/metagoofil.git
+[submodule "Smuggler"]
+	path = Smuggler
+	url = https://github.com/defparam/smuggler.git
+[submodule "Dirsearch"]
+	path = Dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "SecretFinder"]
+	path = SecretFinder
+	url = https://github.com/m4ll0k/SecretFinder.git
+[submodule "LinkFinder"]
+	path = LinkFinder
+	url = https://github.com/1N3/LinkFinder.git
+[submodule "GitGrabber"]
+	path = GitGrabber
+	url = https://github.com/hisxo/gitGraber.git
+[submodule "Censys-subdomain-finder"]
+	path = Censys-subdomain-finder
+	url = https://github.com/christophetd/censys-subdomain-finder.git
+[submodule "DNScan"]
+	path = DNScan
+	url = https://github.com/rbsec/dnscan.git
+[submodule "altDNS"]
+	path = altDNS
+	url = https://github.com/infosec-au/altdns.git
+[submodule "massDNS"]
+	path = massDNS
+	url = https://github.com/blechschmidt/massdns.git
+[submodule "DNSgen"]
+	path = DNSgen
+	url = https://github.com/ProjectAnte/dnsgen
+[submodule "BlackWidow"]
+	path = BlackWidow
+	url = https://github.com/1N3/BlackWidow
+[submodule "BruteX"]
+	path = BruteX
+	url = https://github.com/1N3/BruteX.git
+[submodule "Findsploit"]
+	path = Findsploit
+	url = https://github.com/1N3/Findsploit.git
+[submodule "Goohak"]
+	path = Goohak
+	url = https://github.com/1N3/Goohak.git
+[submodule "Arjun"]
+	path = Arjun
+	url = https://github.com/s0md3v/Arjun.git
+[submodule "byp4xx"]
+	path = byp4xx
+	url = https://github.com/lobuhi/byp4xx.git
+[submodule "Breacher"]
+	path = Breacher
+	url = https://github.com/s0md3v/Breacher.git
+[submodule "Commix"]
+	path = Commix
+	url = https://github.com/commixproject/commix.git
+[submodule "Joomscan"]
+	path = Joomscan
+	url = https://github.com/rezasp/joomscan.git
+[submodule "lscript"]
+	path = lscript
+	url = https://github.com/arismelachroinos/lscript.git
+[submodule "magicRecon"]
+	path = magicRecon
+	url = https://github.com/robotshell/magicRecon
+[submodule "ParamSpider"]
+	path = ParamSpider
+	url = https://github.com/devanshbatham/ParamSpider
+[submodule "parameth"]
+	path = parameth
+	url = https://github.com/maK-/parameth.git
+[submodule "reconftw"]
+	path = reconftw
+	url = https://github.com/six2dez/reconftw
+[submodule "Striker"]
+	path = Striker
+	url = https://github.com/s0md3v/Striker.git
+[submodule "XXScrapy"]
+	path = XXScrapy
+	url = https://github.com/DanMcInerney/xsscrapy.git
+[submodule "Maltego-TRX"]
+	path = Maltego-TRX
+	url = https://github.com/MaltegoTech/maltego-trx.git
+[submodule "SSLyze"]
+	path = SSLyze
+	url = https://github.com/nabla-c0d3/sslyze.git
+[submodule "AutoPentest"]
+	path = AutoPentest
+	url = https://github.com/killvxk/Yuki-Chan-The-Auto-Pentest-1.git
+[submodule "Pentest"]
+	path = Pentest
+	url = https://github.com/go-outside-labs/pentesting.git
+[submodule "XXSpy"]
+	path = XXSpy
+	url = https://github.com/faizann24/XssPy.git
+[submodule "Pentesting-Bible"]
+	path = Pentesting-Bible
+	url = https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE.git
+[submodule "Pentesting-Wiki"]
+	path = Pentesting-Wiki
+	url = https://github.com/nixawk/pentest-wiki.git
+[submodule "Hacks"]
+	path = Hacks
+	url = https://github.com/tomnomnom/hacks.git
+[submodule "Awesome-Pentest"]
+	path = Awesome-Pentest
+	url = https://github.com/Muhammd/Awesome-Pentest.git
+[submodule "Awesome-Pentest-CheatSheets"]
+	path = Awesome-Pentest-CheatSheets
+	url = https://github.com/coreb1t/awesome-pentest-cheat-sheets.git
+[submodule "TheFatRat"]
+	path = TheFatRat
+	url = https://github.com/thetrentus/TheFatRat.git
