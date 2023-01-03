@@ -136,3 +136,42 @@
 [submodule "TheFatRat"]
 	path = TheFatRat
 	url = https://github.com/thetrentus/TheFatRat.git
+[submodule "Penetration-Testing-POC"]
+	path = Penetration-Testing-POC
+	url = https://github.com/Mr-xn/Penetration_Testing_POC.git
+[submodule "Scanners-Box"]
+	path = Scanners-Box
+	url = https://github.com/We5ter/Scanners-Box.git
+[submodule "Awesome-Web-Security"]
+	path = Awesome-Web-Security
+	url = https://github.com/qazbnm456/awesome-web-security.git
+[submodule "PayloadsAllTheThings"]
+	path = PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "Payloads"]
+	path = Payloads
+	url = https://github.com/foospidy/payloads.git
+[submodule "Pagodo"]
+	path = Pagodo
+	url = https://github.com/opsdisk/pagodo.git
+[submodule "ScambaitToolkit"]
+	path = ScambaitToolkit
+	url = https://github.com/ConnorBaxter/ScambaitToolkit.git
+[submodule "ScambaitWebsite"]
+	path = ScambaitWebsite
+	url = https://github.com/gekkedev/scambaitwebsite.git
+[submodule "Scam-Lock-Tool"]
+	path = Scam-Lock-Tool
+	url = https://github.com/Strappazzon/SCAM-Lock-Tool.git
+[submodule "Scammer-Sabotage"]
+	path = Scammer-Sabotage
+	url = https://github.com/SaudAlfurhud/Scammer-Sabotage.git
+[submodule "PhishingKits"]
+	path = PhishingKits
+	url = https://github.com/0xDanielLopez/phishing_kits.git
+[submodule "PhishingDatabase"]
+	path = PhishingDatabase
+	url = https://github.com/mitchellkrogza/Phishing.Database.git
+[submodule "bareSIP"]
+	path = bareSIP
+	url = https://github.com/baresip/baresip.git
