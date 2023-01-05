@@ -175,3 +175,6 @@
 [submodule "bareSIP"]
 	path = bareSIP
 	url = https://github.com/baresip/baresip.git
+[submodule "HowtoHunt"]
+	path = HowtoHunt
+	url = https://github.com/KathanP19/HowToHunt.git
