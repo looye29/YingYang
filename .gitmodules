@@ -184,3 +184,36 @@
 [submodule "SecurityTesting"]
 	path = SecurityTesting
 	url = https://github.com/The-XSS-Rat/SecurityTesting.git
+[submodule "Subfinder"]
+	path = Subfinder
+	url = https://github.com/projectdiscovery/subfinder.git
+[submodule "Finddomain"]
+	path = Finddomain
+	url = https://github.com/Findomain/Findomain.git
+[submodule "DNSsearch"]
+	path = DNSsearch
+	url = https://github.com/evilsocket/dnssearch.git
+[submodule "Sudomy"]
+	path = Sudomy
+	url = https://github.com/screetsec/Sudomy.git
+[submodule "Bug-bounty"]
+	path = Bug-bounty
+	url = https://github.com/sehno/Bug-bounty.git
+[submodule "Knock"]
+	path = Knock
+	url = https://github.com/guelfoweb/knock.git
+[submodule "DNSRecon"]
+	path = DNSRecon
+	url = https://github.com/darkoperator/dnsrecon.git
+[submodule "URLChecker"]
+	path = URLChecker
+	url = https://github.com/evanRubinsteinIT/URLChecker.git
+[submodule "HTTProbe"]
+	path = HTTProbe
+	url = https://github.com/tomnomnom/httprobe.git
+[submodule "HTTPx"]
+	path = HTTPx
+	url = https://github.com/projectdiscovery/httpx.git
+[submodule "DNSx"]
+	path = DNSx
+	url = https://github.com/projectdiscovery/dnsx.git
