@@ -178,3 +178,9 @@
 [submodule "HowtoHunt"]
 	path = HowtoHunt
 	url = https://github.com/KathanP19/HowToHunt.git
+[submodule "Seclists"]
+	path = Seclists
+	url = https://github.com/danielmiessler/SecLists.git
+[submodule "SecurityTesting"]
+	path = SecurityTesting
+	url = https://github.com/The-XSS-Rat/SecurityTesting.git
