@@ -217,3 +217,48 @@
 [submodule "DNSx"]
 	path = DNSx
 	url = https://github.com/projectdiscovery/dnsx.git
+[submodule "BBHT"]
+	path = BBHT
+	url = https://github.com/nahamsec/bbht.git
+[submodule "recon_profile"]
+	path = recon_profile
+	url = https://github.com/nahamsec/recon_profile.git
+[submodule "Resources=for-Beginner-Bug-Bounty-Hunters"]
+	path = Resources=for-Beginner-Bug-Bounty-Hunters
+	url = https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters.git
+[submodule "hacker101"]
+	path = hacker101
+	url = https://github.com/nahamsec/hacker101.git
+[submodule "lazyrecon"]
+	path = lazyrecon
+	url = https://github.com/nahamsec/lazyrecon.git
+[submodule "lazys3"]
+	path = lazys3
+	url = https://github.com/nahamsec/lazys3.git
+[submodule "HostileSubBruteforcer"]
+	path = HostileSubBruteforcer
+	url = https://github.com/nahamsec/HostileSubBruteforcer.git
+[submodule "recondata"]
+	path = recondata
+	url = https://github.com/nahamsec/recondata.git
+[submodule "juice-shop"]
+	path = juice-shop
+	url = https://github.com/nahamsec/juice-shop.git
+[submodule "SundayStreams"]
+	path = SundayStreams
+	url = https://github.com/nahamsec/SundayStreams.git
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/nahamsec/SecLists.git
+[submodule "burpy"]
+	path = burpy
+	url = https://github.com/nahamsec/burpy.git
+[submodule "intrigue-core"]
+	path = intrigue-core
+	url = https://github.com/nahamsec/intrigue-core.git
+[submodule "libricons"]
+	path = libricons
+	url = https://github.com/nahamsec/libricons.git
+[submodule "svgo"]
+	path = svgo
+	url = https://github.com/svg/svgo.git
